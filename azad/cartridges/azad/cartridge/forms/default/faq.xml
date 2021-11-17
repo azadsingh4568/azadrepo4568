@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<form>
+    <field formid="categoryName" label="label.input.categoryName" type="string" mandatory="true"  max-length="50"/>
+	 <action formid="submit"  valid-form="true"/> 
+</form>
